@@ -2,27 +2,8 @@
 <div class="row">
     <div class="col-lg-12 col-xxl-9 d-flex" style="font-size: 15px;">
         <div class="card flex-fill table-responsive pt-4 ps-3 pe-3 pb-1">
-            <!-- <div class="row">
-                <div class="col-md-7">
-                    <form action="" method="post">
-                        <div class="input-group mb-3">
-                            <input type="text" class="form-control" placeholder="Cari Mobil.." id="keyword" name="keyword">
-                            <div class="input-group-append">
-                                <input class="btn btn-primary" type="submit" name="submit">
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-md"></div>
-                <div class="col-md">
-                    <button type="button" class="btn btn-primary tambahModal float-right" data-bs-toggle="modal" data-bs-target="#modalData">
-                        Tambah Data Mobil
-                    </button>
-                </div>
-            </div> -->
             <table class="table table-sm table-hover table-striped my-0 mb-4">
                 <?php if (!empty($mobil)) : ?>
-
                     <thead>
                         <tr>
                             <th>#</th>
