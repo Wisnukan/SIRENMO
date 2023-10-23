@@ -28,7 +28,7 @@ class Home extends CI_Controller
     {
         $data['user'] = $this->input->post('username');
         $data['pass'] = $this->input->post('password');
-        $data['judulHalaman'] = 'Dashboard';
+        $data['judulHalaman'] = $data['user'];
         $this->load->view('templates/header');
         $this->load->view('templates/sidebar', $data);
         $this->load->view('templates/navbar', $data);

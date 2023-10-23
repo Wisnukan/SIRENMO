@@ -85,7 +85,7 @@
                 </ul>
             <?php } ?>
 
-            <?php if ($user == 'customers') { ?>
+            <?php if ($user == 'wisnu') { ?>
                 <ul class="sidebar-nav">
                     <li class="sidebar-header">
                         Halaman Pelanggan
@@ -137,7 +137,7 @@
                 </ul>
             <?php } ?>
 
-            <?php if ($user == 'driver') { ?>
+            <?php if ($user == 'kevin') { ?>
                 <ul class="sidebar-nav">
                     <li class="sidebar-header">
                         Halaman Driver
