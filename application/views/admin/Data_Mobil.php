@@ -10,7 +10,7 @@
                             <th>No. Plat</th>
                             <th class="d-none d-xl-table-cell text-center">Nama</th>
                             <th class="d-none d-xl-table-cell text-center">Merk</th>
-                            <th class="d-none d-xl-table-cell text-center"></th>
+                            <th class="d-none d-xl-table-cell text-center">Tahun</th>
                             <th class="d-none d-xl-table-cell text-center">Transmisi</th>
                             <th class="d-none d-xl-table-cell text-center">Harga</th>
                             <th class="d-none d-xl-table-cell text-center">Sopir + BBM</th>
